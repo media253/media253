@@ -3,109 +3,83 @@
 
 ## The Team :computer: :rat:
 
+<div style="display: flex; gap: 10px;">
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Dino</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/dino.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Happy</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/happy.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    -
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Zorro</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/zorro.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #573b55; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Tumtum</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/tumtum.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Pokie</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/pokie.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Buddha</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/buddha.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    -
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Koda</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/koda.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #573b55; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Skittle</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/skittle.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Tobi</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/tobi.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Kiwi</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/kiwi.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    -
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Mac</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/mac.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Mako</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/mako.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    -
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Turboflex</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/turboflex.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Chi</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/chi.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    -
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Hop</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/hop.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Bean</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/bean.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Milk</div>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/milk.jpg" height="120px" style="max-width: fit-content;"/>
+    </div>
+</div>
+
 <br>
-<table>
-<tbody>
-<tr>
-<td align="center" width="20%">
-<span><b><center>Dino</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/dino.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Happy</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/happy.jpg"> 
-</td>
-
-</tr>
-<tr>
-<td align="center" width="20%">
-<span><b><center>Zorro</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/zorro.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Tumtum</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/tumtum.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Pokie</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/pokie.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Buddha</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/buddha.jpg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Koda</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/koda.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Skittle</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/skittle.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Tobi</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/tobi.jpg"> 
-</td>
-
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Kiwi</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/kiwi.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Mac</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/mac.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Mako</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/mako.jpg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Turboflex</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/turboflex.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Chi</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/chi.jpg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Hop</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/hop.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Bean</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/bean.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Milk</center></b></span> 
-<img height=120px src="https://raw.githubusercontent.com/media253/media253/main/rats/milk.jpg"> 
-</td>
-</tr>
-
-</tbody>
-</table>
 
 ____
 
