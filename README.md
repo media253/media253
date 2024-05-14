@@ -10,7 +10,7 @@
     </div>
     <div style="display: flex; align-items: center; flex-direction: column;">
         <div style="background: #35122f; padding: 7px 15px; text-align: center; font-weight: bold; width:100%">Happy</div>
-        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/happy.jpg" height="120px" style="max-width: fit-content;"/>
+        <img src="https://raw.githubusercontent.com/media253/media253/main/rats/groups/dino-happy.jpg" height="120px" style="max-width: fit-content;"/>
     </div>
     -
     <div style="display: flex; align-items: center; flex-direction: column;">
